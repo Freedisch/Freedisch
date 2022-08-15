@@ -2,11 +2,11 @@
 <h3 align="center">Intersted in Web applications, Blockchain and Machine learning</h3>
 
 
-- 🔭 I’m currently working on **Django and Nestjs**
+- 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **Django, Nextjs and Nestjs**
+- 🌱 I’m currently learning **Django, and Express js**
 
-- 💬 Ask me about **Django, Python, C++**
+- 💬 Ask me about **Django, Python, JavaScript**
 
 - 📫 How to reach me **freeproduc@gmail.com**
 
