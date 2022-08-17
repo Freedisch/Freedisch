@@ -10,6 +10,6 @@
 
 - 📫 How to reach me **freeproduc@gmail.com**
 
-- ⚡ Fun fact **I'm a game addicte**
+- ⚡ Fun fact **I learn brainfuck programming language**
 
 
