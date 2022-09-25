@@ -2,9 +2,9 @@
 <h3 align="center">Intersted in Web applications, Blockchain and Machine learning</h3>
 
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **NODE.js**
 
-- 🌱 I’m currently learning **Django, and Express js**
+- 🌱 I’m currently learning **Vue js, and Express js**
 
 - 💬 Ask me about **Django, Python, JavaScript**
 
