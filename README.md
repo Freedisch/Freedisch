@@ -6,10 +6,10 @@
 
 - 🌱 I’m currently learning **Vue js, and Express js**
 
-- 💬 Ask me about **Django, Python, JavaScript**
+- 💬 Ask me about **Django, Node ecosystem, Python, JavaScript**
 
 - 📫 How to reach me **freeproduc@gmail.com**
 
-- ⚡ Fun fact **I learned brainfuck programming language**
+- ⚡ Fun fact **Error 404 fun fact not found**
 
 
