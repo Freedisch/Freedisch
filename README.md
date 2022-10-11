@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **NODE.js**
 
-- 🌱 I’m currently learning **Vue js, and Express js**
+- 🌱 I’m currently learning **Vue js, Docker, CI/CD and TypeScript**
 
 - 💬 Ask me about **Django, Node ecosystem, Python, JavaScript**
 
