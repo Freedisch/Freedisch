@@ -2,9 +2,9 @@
 <h3 align="center">Intersted in Web applications, Blockchain and Machine learning</h3>
 
 
-- 🔭 I’m currently working on **NODE.js**
+- 🔭 I’m currently working on **APIs**
 
-- 🌱 I’m currently learning **Vue js, Docker, CI/CD and TypeScript**
+- 🌱 I’m currently learning **React js, Docker, CI/CD and TypeScript**
 
 - 💬 Ask me about **Django, Node ecosystem, Python, JavaScript**
 
