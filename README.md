@@ -2,9 +2,9 @@
 <h3 align="center">Intersted in Web applications, Infrastructure Security and Automated Testing</h3>
 
 
-- 🔭 I’m currently working on **Microservices**
+- 🔭 I’m currently working on **Everything 🙃**
 
-- 🌱 I’m currently learning **GraphQL, Docker, CI/CD and Kubernetes**
+- 🌱 I’m currently learning **Everything**
 
 - 💬 Ask me about **Express, Node ecosystem, Python, JavaScript**
 
