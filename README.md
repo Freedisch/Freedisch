@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Everything 🙃**
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Redux and Angular**
 
 - 💬 Ask me about **Express, Node ecosystem, Python, JavaScript**
 
