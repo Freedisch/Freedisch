@@ -2,7 +2,7 @@
 <h3 align="center">Intersted in Cloud Native Applications, Infrastructure Security and Automated Testing</h3>
 
 
-- 🔭 I’m actively working with **Typescript 🙃** and involve in open source.
+- 🔭 I’m actively working with **Typescript 🙃** and involve into **open source**.
 
 - 🌱 I’m currently learning **GO**
 
