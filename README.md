@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **GO**
 
-- 💬 Ask me about ** Node & Typescript**
+- 💬 Ask me about **Node & Typescript**
 
 - 📫 How to reach me **freeproduc@gmail.com**
 
