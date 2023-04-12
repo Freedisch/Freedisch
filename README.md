@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Thibaut F.</h1>
-<h3 align="center">Intersted in Web applications, Infrastructure Security and Automated Testing</h3>
+<h3 align="center">Intersted in Cloud Native Applications, Infrastructure Security and Automated Testing</h3>
 
 
-- 🔭 I’m currently working on **Everything 🙃**
+- 🔭 I’m actively working with **Typescript 🙃** and involve in open source.
 
-- 🌱 I’m currently learning **Redux and Angular**
+- 🌱 I’m currently learning **GO**
 
-- 💬 Ask me about **Express, Node ecosystem, Python, JavaScript**
+- 💬 Ask me about ** Node & Typescript**
 
 - 📫 How to reach me **freeproduc@gmail.com**
 
