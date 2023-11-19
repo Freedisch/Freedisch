@@ -5,6 +5,12 @@ Freedisch is an Open Source Wizard. He builds and unintentionally breaks things 
 *[Contact](mailto:freeproduc@gmail.com)* | *[LinkedIn](https://www.linkedin.com/in/magnim-thibaut-batale-905843208/)* | *[Dev.to](https://dev.to/freedisch)* | *[Devpost](https://devpost.com/Freedisch)* 
 
 
+
+## Featured Blog Posts
+- *[My Year recap in the Open-Source world 2022](https://freedisch.hashnode.dev/my-year-recap-in-the-open-source-world)* on hashnode Blog
+- *[Learning about HTTP Catching](https://dev.to/freedisch/http-caching-4en0)* in Devpost Blog
+
+
 ## Presentations
 TBA
 
