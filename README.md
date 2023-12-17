@@ -9,6 +9,7 @@ Freedisch is an Open Source Wizard. He builds and unintentionally breaks things 
 ## Featured Blog Posts
 - *[My Year recap in the Open-Source world 2022](https://freedisch.hashnode.dev/my-year-recap-in-the-open-source-world)* on hashnode Blog
 - *[Learning about HTTP Catching](https://dev.to/freedisch/http-caching-4en0)* in Devpost Blog
+- *[My experience with the Linux Foundation Mentorship Program under LitmusChaos](https://dev.to/freedisch_10/embarking-on-a-professional-growth-adventure-insights-from-my-lfx-mentorship-program-at-litmuschaos-5cbc)* in Devpost Blog
 
 
 ## Presentations
@@ -16,6 +17,3 @@ TBA
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f754442697378454859774244712f67697068792e676966](https://user-images.githubusercontent.com/82499435/197423420-c593ad0e-aedd-4ad4-b5ba-22fce0cd066d.gif)
 
-
-
-![Snake animation](https://github.com/Freedisch/Freedisch/blob/output/github-contribution-grid-snake.svg)
