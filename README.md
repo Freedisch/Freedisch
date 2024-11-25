@@ -2,7 +2,7 @@
 
 # Hey There!
 
-I am Freedisch Thibaut, an Open Source Wizard. I love programming multiple different things in my free time, from websites to CLIs to microcontrollers. You can learn more about me here: <https://thibautbatale.co/>.
+I am Freedisch Thibaut, an Open Source Wizard. I build and unintentionally break things (which I eventually fix 🙂), from web apps to CLIs to Cloud Technology. You can learn more about me here: <https://thibautbatale.co/>.
 
 ## 📝 Getting to Know Me
 
