@@ -9,7 +9,6 @@ I am Freedisch Thibaut, an Open Source Wizard. I build and unintentionally break
 - 🐧 I am currently working with Flutter and Go
 - 🤖 During my free-time, you can find me either on *LeetCode* or *Contributing to Open Source*
 - 🌱 Learning Kubernetes Technologies, *(I don't like their documentation page)*
-- 🚑 My most recent project is [FastyCall](https://github.com/Freedisch/fastycall), *a monitoring tool for large volumes of emergency calls for understaffed emergency centers*
 - 📰 Currently reading System Design Interview
 
 ## Featured Blog Posts
