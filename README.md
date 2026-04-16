@@ -2,13 +2,13 @@
 
 # Hey There!
 
-I am Freedisch Thibaut, an Open Source Wizard. I build and unintentionally break things (which I eventually fix 🙂), from web apps to CLIs to Cloud Technology. You can learn more about me here: <https://thibautbatale.co/>.
+I am Freedisch Thibaut, an Open Source Wizard. I build and unintentionally break things (which I eventually fix 🙂), from web apps to CLIs to Cloud Technology. You can learn more about me here: <https://freedisc.xyz/>.
 
 ## 📝 Getting to Know Me
 
-- 🐧 I am currently working with Flutter and Go
+- 🐧 I am currently working with Typescript and Go
 - 🤖 During my free-time, you can find me either on *LeetCode* or *Contributing to Open Source*
-- 🌱 Learning Kubernetes Technologies, *(I don't like their documentation page)*
+- 🌱 Learning Kubernetes Technologies, *(preping for CKAD certificate)*
 - 📰 Currently reading System Design Interview
 
 ## Featured Blog Posts
@@ -25,15 +25,3 @@ I am Freedisch Thibaut, an Open Source Wizard. I build and unintentionally break
 Feel free to Reach out, If you believe I can impact your team
 
 ---
-
-
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Yash-Singh1/Yash-Singh1/blob/main/assets/bg.png?raw=true') no-repeat center center; background-size: cover;]{x0000}$}
-
-
-## Presentations
-TBA
-
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f754442697378454859774244712f67697068792e676966](https://user-images.githubusercontent.com/82499435/197423420-c593ad0e-aedd-4ad4-b5ba-22fce0cd066d.gif)
-
