@@ -1,26 +1,33 @@
 <!-- markdownlint-disable no-inline-html first-line-heading -->
 
-# Hey There!
+<small>
 
-I am Freedisch Thibaut, an Open Source Wizard. I build and unintentionally break things (which I eventually fix 🙂), from web apps to CLIs to Cloud Technology. You can learn more about me here: <https://freedisch.xyz/>.
+I build and unintentionally break things (which I eventually fix 🙂). Currently shipping [havril](https://github.com/freedisch/havril) a context memory layer for AI models. Write about distributed systems and cloud infrastructure on <https://x.com/freedisch> and <https://www.freedisch.xyz/blogs>
 
-## 📝 Getting to Know Me
+## Blog Posts
 
-- 🐧 I am currently working with Typescript and Go
-- 🤖 During my free-time, you can find me either on *LeetCode* or *Contributing to Open Source*
-- 🌱 Learning Kubernetes Technologies, *(preping for CKAD certificate)*
-- 📰 Currently reading System Design Interview
-
-## Featured Blog Posts
-- *[Learning about HTTP Catching](https://dev.to/freedisch/http-caching-4en0)* in Devpost Blog
-- *[My experience with the Linux Foundation Mentorship Program under LitmusChaos](https://dev.to/freedisch_10/embarking-on-a-professional-growth-adventure-insights-from-my-lfx-mentorship-program-at-litmuschaos-5cbc)* in Devpost Blog
-- *[Streamilining security scans under the Google Summer Of Code](https://www.securecodebox.io/blog/2024/08/20/google-summer-of-code/)*
+- _[My experience with the Linux Foundation Mentorship Program under LitmusChaos](https://www.cncf.io/blog/2023/12/27/embarking-on-a-professional-growth-adventure-insights-from-my-lfx-mentorship-program-with-litmuschaos/)_
+- _[Streamilining security scans under the Google Summer Of Code](https://www.securecodebox.io/blog/2024/08/20/google-summer-of-code/)_
 
 ## Speaking
-- *[Linux Foundation Open Source Summit 2024](https://youtu.be/p2Wy2N3OtM8?t=1454)* 
 
-## 🚩 Open
+- _[Linux Foundation Open Source Summit 2024](https://youtu.be/p2Wy2N3OtM8?t=1454)_
+
+## Open Source Contributions
+
+| Organization                                                                                                                          |                                               Stars                                                | Pull Requests                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| :------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://github.com/aces.png" width="18"> [**CBrain**](https://github.com/aces/cbrain)                                       |         ![GitHub Repo stars](https://img.shields.io/github/stars/aces/cbrain?style=social)         | [#1482](https://github.com/aces/cbrain/pull/1482) · [#1479](https://github.com/aces/cbrain/pull/1479)                                                                                                                                                                                                                                                                                                                                                                                 |
+| <img src="https://github.com/fedora-infra.png" width="18"> [**Fedora**](https://github.com/fedora-infra)                              |     ![GitHub Repo stars](https://img.shields.io/github/stars/fedora-infra/anitya?style=social)     | [#1735](https://github.com/fedora-infra/anitya/pull/1735) · [#1724](https://github.com/fedora-infra/anitya/pull/1724) · [#334](https://github.com/fedora-infra/fedora-messaging/pull/334)                                                                                                                                                                                                                                                                                             |
+| <img src="https://github.com/secureCodeBox.png" width="18"> [**OWASP SecureCodeBox**](https://github.com/secureCodeBox/secureCodeBox) | ![GitHub Repo stars](https://img.shields.io/github/stars/secureCodeBox/secureCodeBox?style=social) | [#2514](https://github.com/secureCodeBox/secureCodeBox/pull/2514) · [#2570](https://github.com/secureCodeBox/secureCodeBox/pull/2570) · [#2587](https://github.com/secureCodeBox/secureCodeBox/pull/2587) · [#2608](https://github.com/secureCodeBox/secureCodeBox/pull/2608)                                                                                                                                                                                                         |
+| <img src="https://github.com/juice-shop.png" width="18"> [**OWASP Juice Shop**](https://github.com/juice-shop/juice-shop)             |    ![GitHub Repo stars](https://img.shields.io/github/stars/juice-shop/juice-shop?style=social)    | [#1973](https://github.com/juice-shop/juice-shop/pull/1973) · [#1942](https://github.com/juice-shop/juice-shop/pull/1942)                                                                                                                                                                                                                                                                                                                                                             |
+| <img src="https://github.com/litmuschaos.png" width="18"> [**CNCF LitmusChaos**](https://github.com/litmuschaos/litmus)               |     ![GitHub Repo stars](https://img.shields.io/github/stars/litmuschaos/litmus?style=social)      | [#4307](https://github.com/litmuschaos/litmus/pull/4307) · [#4293](https://github.com/litmuschaos/litmus/pull/4293) · [#4249](https://github.com/litmuschaos/litmus/pull/4249) · [#4248](https://github.com/litmuschaos/litmus/pull/4248) · [#4238](https://github.com/litmuschaos/litmus/pull/4238) · [#4189](https://github.com/litmuschaos/litmus/pull/4189) · [#4175](https://github.com/litmuschaos/litmus/pull/4175) · [#4159](https://github.com/litmuschaos/litmus/pull/4159) |
+| <img src="https://github.com/meshery.png" width="18"> [**Meshery**](https://github.com/meshery/meshery)                               |       ![GitHub Repo stars](https://img.shields.io/github/stars/meshery/meshery?style=social)       | [#8491](https://github.com/meshery/meshery/pull/8491) · [#8437](https://github.com/meshery/meshery/pull/8437) · [#8267](https://github.com/meshery/meshery/pull/8267) · [#8044](https://github.com/meshery/meshery/pull/8044) · [#7896](https://github.com/meshery/meshery/pull/7896) · [#7534](https://github.com/meshery/meshery/pull/7534)                                                                                                                                         |
+
+##
 
 Feel free to Reach out, If you believe I can impact your team
 
 ---
+
+</small>
