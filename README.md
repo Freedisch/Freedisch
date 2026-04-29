@@ -26,7 +26,7 @@ I build and unintentionally break things (which I eventually fix 🙂). Currentl
 
 ##
 
-Feel free to Reach out, If you believe I can impact your team
+> _When you're lost in the darkness, look for the light._ — Fireflies, The Last of Us
 
 ---
 
