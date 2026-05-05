@@ -4,16 +4,16 @@
 
 I build and unintentionally break things (which I eventually fix 🙂). Currently shipping [havril](https://github.com/freedisch/havril) a context memory layer for AI models. Write about distributed systems and cloud infrastructure on <https://x.com/freedisch> and <https://www.freedisch.xyz/blogs>
 
-## Blog Posts
+### Blog Posts
 
 - _[My experience with the Linux Foundation Mentorship Program under LitmusChaos](https://www.cncf.io/blog/2023/12/27/embarking-on-a-professional-growth-adventure-insights-from-my-lfx-mentorship-program-with-litmuschaos/)_
 - _[Streamilining security scans under the Google Summer Of Code](https://www.securecodebox.io/blog/2024/08/20/google-summer-of-code/)_
 
-## Speaking
+### Speaking
 
 - _[Linux Foundation Open Source Summit 2024](https://youtu.be/p2Wy2N3OtM8?t=1454)_
 
-## Things I do for fun
+### Things I do for fun
 
 | Organization                                                                                                                          |                                               Stars                                                | Pull Requests                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
