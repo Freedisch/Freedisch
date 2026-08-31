@@ -24,6 +24,12 @@ I build and unintentionally break things (which I eventually fix 🙂). Currentl
 | <img src="https://github.com/litmuschaos.png" width="18"> [**CNCF LitmusChaos**](https://github.com/litmuschaos/litmus)               |     ![GitHub Repo stars](https://img.shields.io/github/stars/litmuschaos/litmus?style=social)      | [#4307](https://github.com/litmuschaos/litmus/pull/4307) · [#4293](https://github.com/litmuschaos/litmus/pull/4293) · [#4249](https://github.com/litmuschaos/litmus/pull/4249) · [#4248](https://github.com/litmuschaos/litmus/pull/4248) · [#4238](https://github.com/litmuschaos/litmus/pull/4238) · [#4189](https://github.com/litmuschaos/litmus/pull/4189) · [#4175](https://github.com/litmuschaos/litmus/pull/4175) · [#4159](https://github.com/litmuschaos/litmus/pull/4159) |
 | <img src="https://github.com/meshery.png" width="18"> [**Meshery**](https://github.com/meshery/meshery)                               |       ![GitHub Repo stars](https://img.shields.io/github/stars/meshery/meshery?style=social)       | [#8491](https://github.com/meshery/meshery/pull/8491) · [#8437](https://github.com/meshery/meshery/pull/8437) · [#8267](https://github.com/meshery/meshery/pull/8267) · [#8044](https://github.com/meshery/meshery/pull/8044) · [#7896](https://github.com/meshery/meshery/pull/7896) · [#7534](https://github.com/meshery/meshery/pull/7534)                                                                                                                                         |
 
+
+### Badges
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e0db6f52-12e5-4a82-9ad0-b1a994c78603" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 ##
 
 > _When you're lost in the darkness, look for the light._ — Fireflies, The Last of Us
