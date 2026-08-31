@@ -27,7 +27,7 @@ I build and unintentionally break things (which I eventually fix 🙂). Currentl
 
 ### Badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e0db6f52-12e5-4a82-9ad0-b1a994c78603" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/e0db6f52-12e5-4a82-9ad0-b1a994c78603/public_url"><img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/linkedin_thumb_blob" alt="CKAD: Certified Kubernetes Application Developer" width="250"></a>
 
 
 ##
